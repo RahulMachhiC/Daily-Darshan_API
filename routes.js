@@ -7,7 +7,7 @@ const moment = require('moment');
 
 const Temple = require('./models/temple');
 const Contact = require('./models/contact');
-const ManglaDarshan = require('./models/manglaDarshan');
+const ManglaDarshan = require('./models/mangladarshan');
 const { Op } = require('sequelize');
 
 const SringarDarshan = require('./models/sringardarshan');
